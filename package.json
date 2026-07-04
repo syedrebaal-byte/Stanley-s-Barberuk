@@ -1,0 +1,17 @@
+{
+  "name": "stanleys-barber",
+  "version": "1.0.0",
+  "description": "Luxury creative website for Stanley's Barber Shop, Manchester",
+  "scripts": {
+    "dev": "npx -y http-server -p 8080",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "barber",
+    "salon",
+    "luxury",
+    "website"
+  ],
+  "author": "Antigravity",
+  "license": "ISC"
+}
